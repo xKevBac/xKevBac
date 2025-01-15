@@ -1,6 +1,6 @@
 ## Hello, I'm Kevin Bach 👋
 
-A recent Computer Science graduate from CSUSB College, passionate about web development.
+A recent Computer Science graduate from CSUSB College, passionate about web development/design.
 
 🔭 Passion to make an impact in the world of web development and web technologies.
 
