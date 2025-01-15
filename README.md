@@ -12,7 +12,7 @@ I thrive on tackling challenges that help me grow as a developer and enjoy colla
 - ⚡ Fun fact: Outside of programming, I love spending time with my family and friends such as playing games or playing badminton. 
 
 ## 🌐 Current Project
-  - I'm currently working on an **art commissioned website for my friend**, to practice on using react.js, HTML, CSS and modern web design principles.
+  - I'm currently working on an **art commissioned website for my friend**, to practice on using react.js, HTML, CSS, responsive and modern web design principles.
   - In working progress, check it out here: [Boojustin Commission](https://boojustin-commision-web.vercel.app/)
 ## 🛠️ My Tech Stack
 - **Languages:** JavaScript, HTML, CSS
