@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Kevin Bach 👋
 
-<!--
-**xKevBac/xKevBac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A recent Computer Science graduate from CSUSB College, passionate about web development.
 
-Here are some ideas to get you started:
+🔭 Passion to make an impact in the world of web development and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I have diverse experience across machine learning, web development, and database management from doing projects. However, my true passion lies in web development. 
+I thrive on tackling challenges that help me grow as a developer and enjoy collaborating with others to deliver impactful solutions.
+
+- 🌱 Currently learning: More about React.js, responsive design, and best practices for modern web development. 
+- ⚡ Fun fact: Outside of programming, I love spending time with my family and friends such as playing games or playing badminton. 
+
+## 🛠️ My Tech Stack
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React.js  
+- **Database:** MySQL  
+- **Tools:** Git, Visual Studio Code, Figma  
+
+## 📫 Let's Connect
+- Email: [bach.kevind@gmail.com](mailto:kevinbach.dev@gmail.com)  
+- Portfolio: [My Portfolio Website](https://kevinwebportfolio-c6c6b.web.app/)  
