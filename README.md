@@ -11,6 +11,9 @@ I thrive on tackling challenges that help me grow as a developer and enjoy colla
 - 🌱 Currently learning: More about React.js, responsive design, and best practices for modern web development. 
 - ⚡ Fun fact: Outside of programming, I love spending time with my family and friends such as playing games or playing badminton. 
 
+## 🌐 Current Project
+  - I'm currently working on an **art commissioned website for my friend**, to practice on uusing react.js, HTML, CSS and modern web design principles.
+  - In working progress, check it out here: [Boojustin Commission](https://boojustin-commision-web.vercel.app/)
 ## 🛠️ My Tech Stack
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks:** React.js  
