@@ -1,25 +1,46 @@
-## Hello, I'm Kevin Bach 👋
+# Hi, I'm Kevin Bach 👋
 
-A recent Computer Science graduate from CSUSB College, passionate about web development/design.
+🎓 Master's Student in Computational Data Science at UCR (Current) 
+🎓 B.S. in Computer Science – CSUSB (Dec 2024)
 
-🔭 Passion to make an impact in the world of web development and web technologies.
+---
 
-## About Me
-I have diverse experience across machine learning, web development, and database management from doing projects. However, my true passion lies in web development. 
-I thrive on tackling challenges that help me grow as a developer and enjoy collaborating with others to deliver impactful solutions.
+## 🚀 About Me
+I enjoy working with data, building models, and finding insights that solve real-world problems.
 
-- 🌱 Currently learning: More about React.js, responsive design, and best practices for modern web development. 
-- ⚡ Fun fact: Outside of programming, I love spending time with my family and friends such as playing games or playing badminton. 
+---
 
-## 🌐 Current Project
-  - I'm currently working on an **art commissioned website for my friend**, to practice on using react.js, HTML, CSS, responsive and modern web design principles.
-  - In working progress, check it out here: [Boojustin Commission](https://boojustin-commision-web.vercel.app/)
-## 🛠️ My Tech Stack
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** React.js  
-- **Database:** MySQL  
-- **Tools:** Git, Visual Studio Code, Figma  
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Data & Tools** Sql and Spark
+- **Tools:** Git, Jupyter Notebook, VS Code
+- **Web:** React.js, Tailwind CSS
 
-## 📫 Let's Connect
-- Email: [bach.kevind@gmail.com](mailto:kevinbach.dev@gmail.com)  
-- Portfolio: [My Portfolio Website](https://kevinwebportfolio-c6c6b.web.app/)  
+---
+
+## 📊 Projects
+
+### 🎬 VibLens
+- Develop Semantic Movie Search base on User "Vibes"
+- Ultilize Cosine Similarity
+- Vectorize the query with sentence transformation 
+
+### 🧠 Stroke Prediction ML Project
+- Built Decision Tree & KNN models
+- Performed data preprocessing & feature engineering
+- Evaluated models using accuracy, confusion matrix
+
+---
+
+## 📈 Currently Learning
+- Data visualization
+- Machine learning
+- SQL for data analysis
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: http://www.linkedin.com/in/kevin-bach-kevdbac02
+- Email: bach.kevind@gmail.com
+  
